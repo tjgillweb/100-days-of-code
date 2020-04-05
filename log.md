@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 1, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+- Started off by making a Weather Finder App which fetches the weather of the city and also updates the background based on whether its day/night.
+-Used the @accuweather API and used async/await & promises. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Weather Finder App](https://tjgillweb.github.io/Weather-App/)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: April 2, 2020 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- Completed @freeCodeCamp Object Oriented Programming in the Javascript Algorithms and Data Structures.
+- Worked on the Weather App to fetch more weather forecasts and UI.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3: April 3, 2020
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Still working on my Weather App and adding new features. Hopefully I will complete it by tomorrow.
+- Learned #javascript Modules in this @tylermcginnis tutorial. He always nails it with his clear and concise explanations!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work** [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://youtu.be/qJWALEoGge4)
 
+### Day 4: April 3, 2020
 
-### Day 1: June 27, Monday
+Didn't code much today. Just updated the Weather App UI. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
