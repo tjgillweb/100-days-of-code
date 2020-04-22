@@ -50,3 +50,37 @@ Been struggling to update the app as I was having some problem with API requests
 - Completed a few challenges(8 to be precise) on #freecodecamp Intermediate Algorithm Scripting #javascript
 
 > A little progress each day adds up to big results. #MondayMotivation
+
+### Day 11: April 14, 2020
+- Building a real time chat application using Object oriented #javascript. Built the UI, created the backend in #Firebase and some initial code setup.
+- Will share the progress tomorrow as I want to touch up the UI a bit more. 
+
+### Day 12: April 16, 2020
+- Finished working on my Real Time Chat Application using #vanillajavascript
+- Things I've learned:
+  - Classes and constructors
+  - Async/Await and Promises
+  - Firebase Real Time Listener and queries
+  - LocalStorage
+**Demo link:** [Real Time Chat Application](https://tjgillweb.github.io/Real-Time-Chat-Application/)  
+**Github link:** [Real Time Chat Application Github](https://github.com/tjgillweb/Real-Time-Chat-Application)
+
+### Day 13: April 17, 2020
+- Just worked a bit more on the Real Time Chat Application
+- Here is a demo of how it works in different browsers.
+**Demo link:** [Real Time Chat Application](https://tjgillweb.github.io/Real-Time-Chat-Application/) 
+
+### Day 14: April 18, 2020
+- Not much, just solved a few more challenges in the #freeCodeCamp Intermediate #javascript Algorithms.
+
+### Day 15: April 19, 2020
+- Started learning how to use Modern JS Workflow using Babel and Webpack.
+- Its getting really exciting as I begin to use Modern JS Tools. 
+**Github link:** [Modern JS Workflow](https://github.com/tjgillweb/Modern-JS-Workflow)
+
+### Day 16: April 20, 2020
+- Learnt how to use webpack, a bit about javascript modules, the Webpack Dev Server and how to use Webpack and babeljs together. One step closer to building real projects!
+ 
+### Day 17: April 21, 2020
+- Completed freecodecamp Intermediate Javascript Algorithms, quite a challenging one!
+- I almost had like a mini revision of all the #javascript concepts I've learned so far like strings, array methods, regex, functions, objects and classes.
