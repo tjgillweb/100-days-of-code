@@ -84,3 +84,9 @@ Been struggling to update the app as I was having some problem with API requests
 ### Day 17: April 21, 2020
 - Completed freecodecamp Intermediate Javascript Algorithms, quite a challenging one!
 - I almost had like a mini revision of all the #javascript concepts I've learned so far like strings, array methods, regex, functions, objects and classes.
+
+### Day 18: April 21, 2020
+- Finished working on this github repo:
+which I created to learn how to use Webpack and Babel in production and development modes and create a Modern JS Workflow.
+**Github link:** [Modern JS Workflow](https://github.com/tjgillweb/Modern-JS-Workflow)
+
