@@ -85,8 +85,17 @@ Been struggling to update the app as I was having some problem with API requests
 - Completed freecodecamp Intermediate Javascript Algorithms, quite a challenging one!
 - I almost had like a mini revision of all the #javascript concepts I've learned so far like strings, array methods, regex, functions, objects and classes.
 
-### Day 18: April 21, 2020
-- Finished working on this github repo:
-which I created to learn how to use Webpack and Babel in production and development modes and create a Modern JS Workflow.
+### Day 18: April 28, 2020
+- Finished working on this github repo which I created to learn how to use Webpack and Babel in production and development modes and create a Modern JS Workflow.
 **Github link:** [Modern JS Workflow](https://github.com/tjgillweb/Modern-JS-Workflow)
 
+### Day 19: April 29, 2020
+Building a small custom UI Library having CSS components like tooltips, dropdowns, tabs etc. using modern JS workflow with 
+webpack and advanced javascript concepts.
+
+### Day 20: April 30, 2020
+Finished the UI Library Project where I created a CSS components like Tooltip, Dropdown, Tabs and a Snackbar using 
+- JS Classes 
+- Module system (using #javascript import and export)
+- Webpack Workflow
+**Github link:** [UI Library](https://github.com/tjgillweb/UI-Library)
